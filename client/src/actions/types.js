@@ -1,0 +1,7 @@
+export const REGISTER_USER = 'REGISTER_USER';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const CREATE_STREAM = 'CREATE_STREAM';
+export const FETCH_STREAMS = 'FETCH_STREAMS';
+export const FETCH_STREAM = 'FETCH_STREAM';
+export const DELETE_STREAM = 'DELETE_STREAM';
+export const EDIT_STREAM = 'EDIT_STREAM';

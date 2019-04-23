@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "A MERN Stack application which allows a user to stream their desktop via rmtp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Billy McCord (Nodev Ltd)",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.2",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "socket.io": "^2.2.0",
+    "validator": "^10.11.0"
+  }
+}
